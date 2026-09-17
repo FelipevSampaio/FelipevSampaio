@@ -13,9 +13,8 @@
 - 🎓 Cursando **Ciência da Computação** (Uninter) e técnico em **Análise e Desenvolvimento de Sistemas** (SENAI)
 - 💻 Foco atual em **Java (Spring Boot, Spring Security, JPA/Hibernate)** e **Python**
 - ☁️ Estudando **AWS** e conceitos de arquitetura em nuvem
-- 🛠️ Já desenvolvi uma **API em Python** para integrar sistemas e alimentar dashboards em tempo real
 - 🌱 Aprendendo constantemente sobre boas práticas de engenharia: testes automatizados, Git/GitHub e metodologias ágeis (Scrum)
-- 🇧🇷 Baseado em Camaçari, Bahia — aberto a oportunidades Remotas/híbridas/presenciais
+- 🇧🇷 aberto a oportunidades Remotas/híbridas/presenciais
 - 📫 Contato: [LinkedIn](https://www.linkedin.com/in/felipe-sampaio-93517b260/)
 
 ---
